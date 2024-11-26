@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align="center">
+  
+# HongHyeon Jeon
+### 개발자 전홍현
+<br/><br/>
 
-<!--
-**Yogurtsharbet/Yogurtsharbet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🔧Skills 
+![My Skills](https://skillicons.dev/icons?i=unity,cs,cpp,c)
 
-Here are some ideas to get you started:
+![Hyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yogurtsharbet&show_icons=true&theme=radical&hide=prs,issues)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+</div>
+
