@@ -40,9 +40,6 @@ From: 26 November 2024 - To: 04 December 2024
 Total Time: 10 hrs 38 mins
 
 C#       10 hrs 31 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   98.76 %
-XML      3 mins          -------------------------   00.59 %
-Binary   2 mins          -------------------------   00.45 %
-Other    1 min           -------------------------   00.20 %
 ```
 
 <!--END_SECTION:waka-->
