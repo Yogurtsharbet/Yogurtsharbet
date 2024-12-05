@@ -31,6 +31,10 @@
 # 📈Stats
 
 ![Hyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yogurtsharbet&show_icons=true&theme=github_dark&hide=prs,issues)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <br/><br/><br/>
 
 
