@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18&height=300&section=header&text=HongHyeon%20Jeon&fontAlignY=35&desc=Unity%20Programmer&descAlign=73&descAlignY=50&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18&height=200&section=header&text=HongHyeon%20Jeon&fontAlignY=35&desc=Unity%20Programmer&descAlign=73&descAlignY=50&animation=fadeIn)
 
 # 🔧Skills 
 <br/>
