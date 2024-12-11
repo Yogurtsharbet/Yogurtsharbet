@@ -6,13 +6,11 @@
 <br/>
 
 ![Skills](https://skillicons.dev/icons?i=unity,cs,cpp,c)
-<br/><br/><br/>
 
-# 📝Learning
-<br/>
+### 📝Learning
 
 ![Learning](https://skillicons.dev/icons?i=py,mysql)
-<br/><br/><br/>
+<br/><br/>
 
 
 # ✒Used Tools
@@ -26,7 +24,7 @@
 <p/>
   
 [<img src="https://img.shields.io/badge/Mirror-2C2F33?style=flat-square&logo=mirror&logoColor=white" style="vertical-align: middle;"/>](https://github.com/MirrorNetworking/Mirror)
-<br/><br/><br/>
+<br/><br/>
 
 # 📈Stats
 
