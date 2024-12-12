@@ -1,18 +1,16 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18&height=300&section=header&text=HongHyeon%20Jeon&fontAlignY=35&desc=Unity%20Programmer&descAlign=73&descAlignY=50&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18&height=200&section=header&text=HongHyeon%20Jeon&fontAlignY=35&desc=Unity%20Programmer&descAlign=73&descAlignY=50&animation=fadeIn)
 
 # 🔧Skills 
 <br/>
 
 ![Skills](https://skillicons.dev/icons?i=unity,cs,cpp,c)
-<br/><br/><br/>
 
-# 📝Learning
-<br/>
+### 📝Learning
 
 ![Learning](https://skillicons.dev/icons?i=py,mysql)
-<br/><br/><br/>
+<br/><br/>
 
 
 # ✒Used Tools
@@ -26,7 +24,7 @@
 <p/>
   
 [<img src="https://img.shields.io/badge/Mirror-2C2F33?style=flat-square&logo=mirror&logoColor=white" style="vertical-align: middle;"/>](https://github.com/MirrorNetworking/Mirror)
-<br/><br/><br/>
+<br/><br/>
 
 # 📈Stats
 
@@ -35,11 +33,11 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 26 November 2024 - To: 09 December 2024
+From: 26 November 2024 - To: 10 December 2024
 
-Total Time: 21 hrs 33 mins
+Total Time: 22 hrs 40 mins
 
-C#       21 hrs 14 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   98.42 %
+C#       22 hrs 21 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   98.50 %
 ```
 
 <!--END_SECTION:waka-->
