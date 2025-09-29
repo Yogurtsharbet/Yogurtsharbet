@@ -35,9 +35,9 @@
 ```rust
 From: 26 November 2024 - To: 28 September 2025
 
-Total Time: 320 hrs 54 mins
+Total Time: 345 hrs 44 mins
 
-C#                313 hrs 51 mins >>>>>>>>>>>>>>>>>>>>>>>>-   96.33 %
+C#                337 hrs 14 mins >>>>>>>>>>>>>>>>>>>>>>>>-   96.17 %
 ```
 
 <!--END_SECTION:waka-->
