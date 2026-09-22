@@ -28,8 +28,6 @@
 
 # 📈Stats
 
-![Hyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yogurtsharbet&show_icons=true&theme=github_dark&hide=prs,issues)
-
 <!--START_SECTION:waka-->
 
 ```rust
@@ -59,9 +57,7 @@ C#                344 hrs 10 mins       >>>>>>>>>>>>>>>>>>>>>>>--   93.60 %
 #### toinbee3@gmail.com
 
 
-<br/><br/>
-
-
+<br/>
 
 </div>
 
